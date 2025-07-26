@@ -22,7 +22,7 @@
 - 🧠 Self-taught full-stack learner
 - 🛠️ Building and experimenting with real-world mini projects
 - 📦 Working with **React**, **Tailwind**, **PHP**, **Python**, and more
-- 🚀 Always learning by doing, not just watching tutorials
+- 🚀 Practice > theory — every single day.
 - 🌐 Live portfolio: [**avdiajeti.com**](https://avdiajeti.com)
 
 ---
@@ -46,14 +46,14 @@ My repositories are private for now, but here’s a look at what I’ve been wor
 
 - 💻 Coding every day — even if no one sees it
 - 🤓 Always testing new ideas in a local sandbox
-- 🧱 Everything I build is part of a bigger journey
+- 💡 Code, create, repeat — that’s the journey!
 
 ---
 
 ### 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:avdiajeti0612@gmial.com">
+  <a href="mailto:avdiajeti0612@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

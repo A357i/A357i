@@ -12,7 +12,7 @@
 ### 🧰 Tech I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,python" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,php,laravel,python" alt="Tech stack" />
 </p>
 
 ---

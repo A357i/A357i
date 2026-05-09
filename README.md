@@ -12,7 +12,7 @@
 ### 🧰 Tech I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,php,laravel,python" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,python" alt="Tech stack" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 - 🧠 Self-taught full-stack learner
 - 🛠️ Building and experimenting with real-world mini projects
-- 📦 Working with **React**, **Tailwind**, **PHP**, **Python**, and more
+- 📦 Working with **React**, **Tailwind**, **Python**, and more
 - 🚀 Practice > theory — every single day.
 - 🌐 Live portfolio: [**avdiajeti.com**](https://avdiajeti.com)
 

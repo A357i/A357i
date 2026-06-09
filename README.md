@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋 I'm Avdi Ajeti</h1>
-<p align="center">Code. Build. Break. Repeat.</p>
+<h1 class="heading-element"><code>$ whoami </code></h1>
+<h3 align="center">Hey 👋 I'm #357  </h3>
 
 <p align="center">
   <a href="https://avdiajeti.com" target="_blank">
@@ -7,7 +7,13 @@
   </a>
 </p>
 
----
+<p dir="auto">
+  <animated-image data-catalyst>
+    <a>
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    </a>
+  </animated-image>
+</p>
 
 ### 🧰 Tech I Use
 

@@ -1,5 +1,5 @@
 <h1 class="heading-element"><code>$ whoami </code></h1>
-<h3 align="center">Hey 👋 I'm #357  </h3>
+<h3 class="heading-element">Hey 👋 I'm #357  </h3>
 
 <p align="center">
   <a href="https://avdiajeti.com" target="_blank">

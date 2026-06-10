@@ -1,7 +1,7 @@
 <h1 class="heading-element"><code>$ whoami </code></h1>
 <h3 class="heading-element">Hey 👋 I'm #357  </h3>
 
-<p align="center">
+<p align="center"> THE PAGE WILL BE AVAILABLE SOON
   <a href="https://avdiajeti.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>

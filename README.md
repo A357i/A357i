@@ -39,7 +39,7 @@ My repositories are private for now, but here’s a look at what I’ve been wor
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| [Portfolio Website](https://avdiajeti.com) | React + Tailwind | Live personal website and resume |
+| [Portfolio Website]() | React + Tailwind | Live personal website and resume |
 | Historical Event Finder | JS + Tailwind | Fetches historical events by date using an API |
 | Online Auction System | PHP + Tailwind | Simple auction platform backend |
 | CV-Resume | React + Tailwind | A custom online resume page |

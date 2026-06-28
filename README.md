@@ -30,21 +30,6 @@
 
 ---
 
-### 🧪 Projects
-
-My repositories are private for now, but here’s a look at what I’ve been working on:
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| [Portfolio Website]() | React + Tailwind | Live personal website and resume |
-| Historical Event Finder | JS + Tailwind | Fetches historical events by date using an API |
-| Online Auction System | PHP + Tailwind | Simple auction platform backend |
-| CV-Resume | React + Tailwind | A custom online resume page |
-
-> More mini-projects are built and organized in folders under my private repository.
-
----
-
 ### 🧭 Fun Facts
 
 - 💻 Coding every day — even if no one sees it

@@ -48,4 +48,4 @@
 
 ---
 
-<p align="center">Thanks for visiting — new projects and updates coming soon! 🛠️</p>
+

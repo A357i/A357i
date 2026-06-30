@@ -30,7 +30,7 @@
 
 ---
 
-### 🧭 Fun Facts
+### 🧭 
 
 - 💻 Coding every day — even if no one sees it
 - 🤓 Always testing new ideas in a local sandbox

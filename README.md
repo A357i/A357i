@@ -2,7 +2,7 @@
 <h3 class="heading-element">Hey 👋 I'm #357  </h3>
 
 <p align="center"> THE PAGE WILL BE AVAILABLE SOON
-  <a href="https://avdiajeti.com" target="_blank">
+  <a href="https://ajetonix.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -15,18 +15,11 @@
   </animated-image>
 </p>
 
-### 🧰 Tech I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,python" alt="Tech stack" />
-</p>
-
 ---
 
 ### 🔍 About Me
 
-- 🚀 Practice > theory — every single day.
-- 🌐 Live portfolio: Coming Soon (Till i find another name)
+- 🌐 https://ajetonix.com
 
 ---
 
